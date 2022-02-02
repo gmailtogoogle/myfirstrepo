@@ -1,4 +1,4 @@
 # myfirstrepo
 Learning github
-My first repository
+My 1st repository
 time-7:30am
